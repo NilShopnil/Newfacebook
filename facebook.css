@@ -1,0 +1,41 @@
+body{
+    background-color: #F0F2F5;
+}
+.container{
+    width:100%;
+    height: auto;
+}
+.facebook-logo{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-top: 195px;
+    margin-left: 250px;
+    display: inline-block;
+}
+
+.facebook-logo img{
+    height: 106px;
+    width: 301px;
+    overflow: hidden;
+    margin:-28px;
+}
+.facebook-logo h1{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+    width: 500px;
+    line-height: 32px;
+}
+.facebook-info{
+    background-color: #FFFF;
+    width:500px;
+    height:auto;
+    float: right;
+    margin-top: 190px;
+    margin-right: 145px;
+}
+.email-pass input{
+    width:330px;
+    height:50px;
+    border-radius: 6px;
+}
